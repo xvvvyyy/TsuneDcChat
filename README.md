@@ -12,16 +12,16 @@ Nothing too serious, just something I felt like making.
 
 Features
 
--- Browse servers and text channels
--- View messages from real users and bots
--- Send messages through your bot
--- Reply to messages
--- Delete messages sent by your bot
--- View avatars and timestamps
--- Six different themes
--- Automatic message refreshing
--- Demo mode
--- Manual/automatic channel ID input
++ Browse servers and text channels
+- View messages from real users and bots
++ Send messages through your bot
+- Reply to messages
++ Delete messages sent by your bot
+- View avatars and timestamps
++ Six different themes
+- Automatic message refreshing
++ Demo mode
+- Manual/automatic channel ID input
 
 Getting Started
 
