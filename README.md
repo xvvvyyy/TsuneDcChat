@@ -61,9 +61,9 @@ Made by ! a1 lol
 
 Discord: "barkbarkdoggy"
 
-Website: "xvvvyyy.github.io" (https://xvvvyyy.github.io)
+Website; [xvvvyyy.github.io](https://xvvvyyy.github.io)
 
-GitHub: "xvvvyyy" (https://github.com/xvvvyyy)
+GitHub; [xvvvyyy](https://github.com/xvvvyyy)
 
 ---
 
